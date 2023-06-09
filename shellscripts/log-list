@@ -1,0 +1,25 @@
+total 76
+-rwxrwxrwx. 1 ec2-user ec2-user  94 May 27 11:09 example1.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 108 May 27 11:34 example2.sh
+-rw-r--r--. 1 ec2-user ec2-user 182 May 27 12:30 1
+-rw-------. 1 ec2-user ec2-user 132 May 27 12:54 nohup.out
+-rwx------. 1 ec2-user ec2-user 212 May 27 12:56 example3.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  88 May 29 02:46 check5.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 194 May 29 03:20 big3.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 165 May 29 03:28 big2.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  94 May 29 04:20 printnum.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 137 May 30 23:13 fact.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 225 May 30 23:34 checkname.sh
+-rw-r--r--. 1 ec2-user ec2-user  90 Jun  1 00:08 data
+-rwxrwxrwx. 1 ec2-user ec2-user 160 Jun  1 00:17 rev.sh
+-rw-r--r--. 1 ec2-user ec2-user 253 Jun  1 01:11 checkdiscsize.sh
+-rw-r--r--. 1 ec2-user ec2-user  23 Jun  1 16:52 biglog2
+-rw-r--r--. 1 ec2-user ec2-user  23 Jun  1 23:35 biglog3
+-rw-r--r--. 1 ec2-user ec2-user  16 Jun  1 23:40 fact-log
+-rwxrwxrwx. 1 ec2-user ec2-user 186 Jun  2 01:06 case-example.sh
+-rw-r--r--. 1 ec2-user ec2-user   0 Jun  2 01:16 log_2
+-rw-r--r--. 1 ec2-user ec2-user   0 Jun  2 01:16 log_1
+-rwxrwxrwx. 1 ec2-user ec2-user 454 Jun  2 01:17 case-example1.sh
+-rw-r--r--. 1 ec2-user ec2-user   0 Jun  2 01:17 log1_backup
+-rw-r--r--. 1 ec2-user ec2-user   0 Jun  2 01:17 log2_backup
+-rw-r--r--. 1 ec2-user ec2-user   0 Jun  2 01:17 log-list
